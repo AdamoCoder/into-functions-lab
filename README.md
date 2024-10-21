@@ -1,1 +1,1 @@
-# into-functions-labs
+# into-functions-lab
